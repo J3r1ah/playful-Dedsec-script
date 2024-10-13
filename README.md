@@ -19,12 +19,6 @@ The workflow is triggered on push or pull request to the main branch. It perform
 - Requests a coded message from successful recruits
 - Displays DedSec ASCII art
 
-## Local Development
-
-1. Clone this repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run tests: `python -m unittest discover tests`
-4. Run the script: `python src/dedsec.py`
 
 ## Contributing
 
@@ -36,7 +30,4 @@ The workflow is triggered on push or pull request to the main branch. It perform
 ## Disclaimer
 
 This project is for educational and entertainment purposes only. It does not actually recruit for any hacking group or endorse any illegal activities. The content is fictional and based on the Watch Dogs game series.
-
-## License
-
-This project is open source and available under the MIT License.
+ 
