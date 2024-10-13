@@ -48,5 +48,5 @@ $R@i.~~ !     :   ~$$$$$B$$en:``
    ░       ░  ░   ░          ░     ░  ░░ ░      
  ░              ░                      ░]""")      
 
-if __name__ == "__main__":
-    dedsec_recruitment(40)
+    if __name__ == "__main__":
+        dedsec_recruitment(40)
