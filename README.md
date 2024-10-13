@@ -35,8 +35,5 @@ The workflow is triggered on push or pull request to the main branch. It perform
 
 ## Disclaimer
 
-This project is for educational and entertainment purposes only. It does not actually recruit for any hacking group or endorse any illegal activities. The content is fictional and based on the Watch Dogs game series.
+This project is for educational and entertainment purposes only. It does not actually recruit for any hacking group or endorse any illegal activities. The content is fictional and based on the Watch Dogs game.
 
-## License
-
-This project is open source and available under the MIT License.
