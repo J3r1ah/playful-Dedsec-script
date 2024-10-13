@@ -1,3 +1,5 @@
+name: DedSec Recruitment Workflow
+
 on:
   push:
     branches: [ main ]
