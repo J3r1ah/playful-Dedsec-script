@@ -2,15 +2,6 @@
 
 This repository contains a GitHub Actions workflow that simulates the DedSec recruitment process from the Watch Dogs game series.
 
-## Workflow Description
-
-The workflow is triggered on push or pull request to the main branch. It performs the following tasks:
-
-1. Sets up a Python environment
-2. Runs unit tests
-3. Performs linting with flake8
-4. Runs the DedSec recruitment script
-
 ## Script Features
 
 - Evaluates potential recruits based on a skill score
