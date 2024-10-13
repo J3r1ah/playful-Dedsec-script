@@ -12,9 +12,7 @@ def dedsec_recruitment(skill_level):
     print("Send us a strongly worded message about the Russians in the next week. It should be in binary code. We're serious about this. <3")
     print("And to make it extra annoying, send it in reverse. We're going to send it to a Russian loan shark who hacks people if they don't pay their debts. He should know what we're talking about, you know? People say Russian is backwards, and he's Russian. I'll shut up now...")
 
-   print("""
-    [
-    ░ ▒░▓  ░▒ ▒▒ ▓▒░ ▒░   ░  ░ ▒ ░   ░ ░▒ ▒  ░░▓  ░▒▓▒ ▒ ▒  ▒▒   ▓▒█░░ ▓░▒ ▒  ░░ ▒▒░ ▒ 
+   print("""[░ ▒░▓  ░▒ ▒▒ ▓▒░ ▒░   ░  ░ ▒ ░   ░ ░▒ ▒  ░░▓  ░▒▓▒ ▒ ▒  ▒▒   ▓▒█░░ ▓░▒ ▒  ░░ ▒▒░ ▒ 
 ░ ░ ▒  ░░ ░▒ ▒░░  ░      ░ ░       ░  ▒    ▒ ░░░▒░ ░ ░   ▒   ▒▒ ░  ▒ ░ ░   ░ ▒░  ░ 
   ░ ░   ░ ░░ ░ ░      ░    ░ ░   ░         ▒ ░ ░░░ ░ ░   ░   ▒     ░   ░     ░   ░ 
     ░  ░░  ░          ░          ░ ░       ░     ░           ░  ░    ░        ░    
@@ -48,7 +46,7 @@ $R@i.~~ !     :   ~$$$$$B$$en:``
  ░ ▒  ▒  ░ ░  ░ ░ ▒  ▒ ░ ░▒  ░ ░ ░ ░  ░  ░  ▒   
  ░ ░  ░    ░    ░ ░  ░ ░  ░  ░     ░   ░        
    ░       ░  ░   ░          ░     ░  ░░ ░      
- ░              ░                      ░        ]""")      
+ ░              ░                      ░]""")      
 
 if __name__ == "__main__":
     dedsec_recruitment(40)
