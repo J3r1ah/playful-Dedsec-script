@@ -1,18 +1,4 @@
-def dedsec_recruitment(skill_level):
-    print("dedsec letter to you")
-
-    if skill_level > 20:
-        print("Welcome to DedSec, my friend! You have been chosen to join our fight for a better digital world. Your skills are impressive, and we see your potential. The engineering and programming abilities you possess are exactly what we need.")
-    else:
-        print("Sorry, but you're not quite ready for DedSec. Your skills don't quite match our requirements. We can't trust someone who isn't dedicated to helping the people and fighting against the cyber criminals.")
-
-    for i, char in enumerate("Remember, here at DedSec, we prioritize our audience: the people who need us to take down the bad actors in the cyber world and prevent them from exploiting innocent people."):
-        print((i, char))
-
-    print("Send us a strongly worded message about the Russians in the next week. It should be in binary code. We're serious about this. <3")
-    print("And to make it extra annoying, send it in reverse. We're going to send it to a Russian loan shark who hacks people if they don't pay their debts. He should know what we're talking about, you know? People say Russian is backwards, and he's Russian. I'll shut up now...")
-
-print("""[░ ▒░▓  ░▒ ▒▒ ▓▒░ ▒░   ░  ░ ▒ ░   ░ ░▒ ▒  ░░▓  ░▒▓▒ ▒ ▒  ▒▒   ▓▒█░░ ▓░▒ ▒  ░░ ▒▒░ ▒ 
+print("""░ ▒░▓  ░▒ ▒▒ ▓▒░ ▒░   ░  ░ ▒ ░   ░ ░▒ ▒  ░░▓  ░▒▓▒ ▒ ▒  ▒▒   ▓▒█░░ ▓░▒ ▒  ░░ ▒▒░ ▒ 
 ░ ░ ▒  ░░ ░▒ ▒░░  ░      ░ ░       ░  ▒    ▒ ░░░▒░ ░ ░   ▒   ▒▒ ░  ▒ ░ ░   ░ ▒░  ░ 
   ░ ░   ░ ░░ ░ ░      ░    ░ ░   ░         ▒ ░ ░░░ ░ ░   ░   ▒     ░   ░     ░   ░ 
     ░  ░░  ░          ░          ░ ░       ░     ░           ░  ░    ░        ░    
@@ -46,6 +32,55 @@ $R@i.~~ !     :   ~$$$$$B$$en:``
  ░ ▒  ▒  ░ ░  ░ ░ ▒  ▒ ░ ░▒  ░ ░ ░ ░  ░  ░  ▒   
  ░ ░  ░    ░    ░ ░  ░ ░  ░  ░     ░   ░        
    ░       ░  ░   ░          ░     ░  ░░ ░      
- ░              ░                      ░]""")      
-if __name__ == "__main__":
-        dedsec_recruitment(40)
+ ░              ░                      ░""")      
+
+
+
+from time import sleep
+
+
+def type(text):
+  for i in text:
+    print(i, end = "")
+    sleep(0.05)
+  print("")
+
+print()
+print()
+print()
+
+
+type("Welcome to DedSec, my friend! You have been chosen to join our fight for a better digital world. Your skills are impressive, and we see your potential. The engineering and programming abilities you possess are exactly what we need.")
+   
+recruitment_choice = input("do you want to join??? type yes or no ")
+if recruitment_choice == "yes":
+  print()
+  print()
+  type("thank you for considering our offer you skills are especially apreciated")
+  print()
+  type("Remember, here at DedSec, we prioritize our audience: the people who need us to take down the bad actors in the cyber world and prevent them from exploiting innocent people.")
+  print()
+if recruitment_choice == "Yes":
+  print()
+  print()
+  type("thank you for considering our offer you skills are especially apreciated")
+  print()
+  type("Remember, here at DedSec, we prioritize our audience: the people who need us to take down the bad actors in the cyber world and prevent them from exploiting innocent people.")
+  print()
+if recruitment_choice == "no":
+  print()
+  print()
+  type("eww get out you stink we didnt want you anyway you scum ")
+  print()
+if recruitment_choice == "No":
+  print()
+  print()
+  type("eww get out you stink we didnt want you anyway you scum ")
+  print()
+  
+
+
+
+     
+
+
